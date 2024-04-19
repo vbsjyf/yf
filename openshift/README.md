@@ -18,7 +18,7 @@
 
 ## General
 
-What follows is a tutorial on how to build images on an OpenShift cluster in a three-step process
+What follows is a tutorial on how to build images on an OpenShift cluster in a three-step process test
 (base image, build artifact image, target image). Note that all image
 streams/build configs assume the OC project/namespace `oaicicd-ran`.
 
